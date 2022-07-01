@@ -1,7 +1,5 @@
 > **Hi, I'm Sampanna** 😃✋
 
-![](https://www.canva.com/design/DAFFNTixbmU/5yzS3RWlTLrpY1giNAlaKg/edit?utm_content=DAFFNTixbmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 > I am an aspiring Java Backend Developer studying at Masai School,
 > India. I have a keen sense of interest in Backend Development. My tech
 > skills include Java, MySQL, HTML, CSS, and JavaScript. My goal in life
